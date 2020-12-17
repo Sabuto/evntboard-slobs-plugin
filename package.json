@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabuto/module-slobs.git"
+    "url": "git+https://github.com/Sabuto/evntboard-slobs-plugin.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sabuto/module-slobs/issues"
+    "url": "https://github.com/Sabuto/evntboard-slobs-plugin/issues"
   },
-  "homepage": "https://github.com/sabuto/module-slobs#readme",
+  "homepage": "https://github.com/Sabuto/evntboard-slobs-plugin#readme",
   "dependencies": {
     "sockjs-client": "^1.5.0"
   }
