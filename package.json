@@ -1,0 +1,22 @@
+{
+  "name": "evntboard-module-slobs",
+  "version": "1.0.0",
+  "description": "a Plugin for evntboard to connect to SLOBS",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabuto/module-slobs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sabuto/module-slobs/issues"
+  },
+  "homepage": "https://github.com/sabuto/module-slobs#readme",
+  "dependencies": {
+    "sockjs-client": "^1.5.0"
+  }
+}
